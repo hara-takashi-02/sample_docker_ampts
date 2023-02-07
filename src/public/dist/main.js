@@ -1,0 +1,2 @@
+(()=>{"use strict";var e={208:(e,r,o)=>{o.r(r)},473:(e,r)=>{Object.defineProperty(r,"__esModule",{value:!0}),r.addNum=void 0,r.addNum=function(e,r){return e+r}}},r={};function o(t){var d=r[t];if(void 0!==d)return d.exports;var u=r[t]={exports:{}};return e[t](u,u.exports,o),u.exports}o.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},(()=>{o(208);var e=o(473);console.log((0,e.addNum)(1,5))})()})();
+//# sourceMappingURL=main.js.map
